@@ -1,0 +1,4 @@
+imprime ("Introduce un numero: "\n);
+entero numero;
+obtener ("%d", &numero\n);
+imprime ("El numero es: %d\n", numero);
